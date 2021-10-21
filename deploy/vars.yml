@@ -1,0 +1,13 @@
+dev:
+  PROJECT_NAME     : "chalice-serverless-alerts"
+  DEPLOY_REGION    : "eu-west-1"
+pre:
+  PROJECT_NAME     : "chalice-serverless-alerts"
+  DEPLOY_REGION    : "us-west-2"
+pre1a:
+  PROJECT_NAME     : "chalice-serverless-alerts"
+  DEPLOY_REGION    : "us-west-2"
+prod:
+  PROJECT_NAME     : "chalice-serverless-alerts"
+  DEPLOY_REGION    : "us-east-1"
+  
